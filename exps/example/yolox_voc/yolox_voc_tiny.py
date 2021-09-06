@@ -24,7 +24,7 @@ class Exp(MyExp):
 
         self.warmup_epochs = 1
 
-        self.max_epoch = 300
+        self.max_epoch = 50
 
         # ---------- transform config ------------ #
         self.mosaic_prob = 1.0
